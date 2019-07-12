@@ -16,6 +16,7 @@
     "gulp-jshint": "^2.1.0",
     "gulp-nodemon": "^2.4.2",
     "http-errors": "~1.6.3",
+    "instagram-node": "^0.5.8",
     "jshint": "^2.10.2",
     "morgan": "~1.9.1",
     "wiredep": "^4.0.0"
