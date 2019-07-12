@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+
+</head>
+<body>
+<ul class="timeline">
+
+    <%for(i=0;i<varEvents.length;i++){%>
+    <li>
+        <div class="timeline-image">
+            <img class="rounded-circle img-fluid" src="img/about/<%=i+1%>.jpg" alt="">
+        </div>
+        <div class="timeline-panel">
+            <div class="timeline-heading">
+                <h4><%=varEvents[i].date%> | <%=varEvents[i].time%></h4>
+                <h4 class="subheading"><%=varEvents[i].name%></h4>
+            </div>
+            <div class="timeline-body">
+                <p class="text-muted">
+                    <a href="/events/<%=i%>"><%=varEvents[i].description%></a>
+                </p>
+            </div>
+        </div>
+    </li>
+    <%}%>
+    <li class="timeline-inverted">
+        <div class="timeline-image">
+            <h4>Be Part
+                <br>Of Our
+                <br>Story!</h4>
+        </div>
+    </li>
+</ul>
+<div class="row">
+    <%grams.forEach(function (gram) { %>
+        <a href="<%= gram.link%>"target="_blank">
+        <img alt="" src="<%= gram.images %>"class="imgresponsive">
+        </a>
+   <% })%>
+
+</div>
+
+</body>
+</html>
