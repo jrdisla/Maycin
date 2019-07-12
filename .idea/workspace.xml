@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b6981a-9bcb-485a-872a-48a4efb2d3db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/ig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/ig.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/lib/instagram.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/lib/instagram.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/comments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/likes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/likes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/locations.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/locations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/media.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/media.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/oembed.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/oembed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/relationship.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/relationship.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/tag.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/tag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/scripts/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/instagram-node/test/test_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/instagram-node/test/test_base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/ig.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/ig.ejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,8 +128,16 @@
       <workItem from="1562875371964" duration="307000" />
       <workItem from="1562875819742" duration="4379000" />
       <workItem from="1562887459363" duration="11606000" />
-      <workItem from="1562946390167" duration="10908000" />
+      <workItem from="1562946390167" duration="11635000" />
     </task>
+    <task id="LOCAL-00001" summary="login but not images">
+      <created>1562961379048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562961379048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +159,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="login but not images" />
+    <option name="LAST_COMMIT_MESSAGE" value="login but not images" />
   </component>
   <component name="masterDetails">
     <states>
